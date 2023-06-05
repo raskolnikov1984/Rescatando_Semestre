@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/funds">
+        <file>Sprites/FONDO_I.gif</file>
+        <file>Sprites/FONDO_II.gif</file>
+        <file>Sprites/FONDO_III.png</file>
+        <file>Sprites/FONDO_IV.png</file>
+    </qresource>
+    <qresource prefix="/personage">
+        <file>Sprites/NEWTON_ENEMY.gif</file>
+        <file>Sprites/NEWTON_ENEMY_PRISMA.gif</file>
+        <file>Sprites/NEWTON_ENEMY_SPAWN_APPLES.gif</file>
+    </qresource>
+    <qresource prefix="/bullets">
+        <file>Sprites/BULLET_PENCIL.png</file>
+        <file>Sprites/BULLET_PENCIL_CONTRAATACK.gif</file>
+        <file>Sprites/BULLET_APPEL.png</file>
+        <file>Sprites/PLAYER.gif</file>
+        <file>Sprites/PLAYER.png</file>
+    </qresource>
+</RCC>
